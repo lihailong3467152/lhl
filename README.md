@@ -93,7 +93,7 @@ vscode-repository/
 └── README.md               # 项目主说明文档
 ```
 ## <a id="🚀-快速开始"></a>🚀 快速开始
- 获取代码Bashgit clone [https://github.com/lihailong3467152/vscode-repository.git](https://github.com/lihailong3467152/vscode-repository.git)
+ 获取代码Bashgit clone [https://github.com/lihailong3467152/vscode-repository.git](https://github.com/lihailong3467152/lhl.git)
 cd vscode-repository
  环境配置Bash# 安装依赖
 pip install -r requirements.txt
