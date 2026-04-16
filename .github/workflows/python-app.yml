@@ -4,10 +4,11 @@
 name: Python application
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  workflow_dispatch:  # 重点：代表手动触发
+  # push:
+  #   branches: [ "main" ]  #push时触发
+  # pull_request:
+  #   branches: [ "main" ]  #pull时触发
 
 permissions:
   contents: read
